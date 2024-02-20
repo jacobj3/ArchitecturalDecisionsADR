@@ -15,4 +15,5 @@ For payment processing within the app, we have opted to use Stripe. We can set u
 
 **Consequences**
 
-We can ensure the security and dependability of payments made through the app by using Stripe. Customers can pay in a variety of methods while maintaining the security of their data. In order to ensure that payments processes are smooth, we must ensure that Stripe is configured correctly and thoroughly tested. We also need to monitor any updates from Stripe to keep our app working well with their service.
+By utilizing Stripe, we can guarantee the dependability and security of payments performed through the app. Consumers may keep their data secure while making payments using a number of different approaches. We need to make sure Stripe is properly installed and tested in order to guarantee seamless payment processing. To maintain our app's compatibility with Stripe's service, we also need to keep an eye out for any updates from them.
+
