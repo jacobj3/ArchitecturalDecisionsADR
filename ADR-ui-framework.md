@@ -10,7 +10,7 @@ In order to build the native mobile application's user interface, the team must 
 
 **Decision**
 
-We have selected React Native as the UI framework for the food ordering app. With just one set of code, we can make it work on different platforms, which saves time and money for updates and building. It offers diverse approaches to design the app with a rich set of UI componenents and helps us develop quickly with instant updates.
+We have selected React Native as the UI framework for the food ordering app. With just one set of code, we can make it work on different platforms, which saves time and money for updates and building. It offers diverse approaches to design the app with a rich set of UI components and helps us develop quickly with instant updates.
 
 
 **Consequences**
